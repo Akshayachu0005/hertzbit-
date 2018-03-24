@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/About_KIT"
+        android:title="@string/About_KIT"
+
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item android:id="@+id/Principal_Message"
+        android:title="@string/Principal_Message"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item android:id="@+id/Management_Commitee"
+        android:title="@string/Management_Commitee"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item android:id="@+id/Departments"
+        android:title="@string/Departments"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item android:id="@+id/Contact_Details"
+        android:title="@string/Contact_Details"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+</menu>

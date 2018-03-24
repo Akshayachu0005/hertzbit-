@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">KIT</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="About_KIT">Home</string>
+    <string name="Principal_Message">Principal Message</string>
+    <string name="Management_Commitee">ManagementCommitee</string>
+    <string name="Departments">Departments</string>
+    <string name="Contact_Details">Contact Details</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
